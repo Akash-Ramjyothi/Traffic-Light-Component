@@ -7,6 +7,40 @@
   pointer-events: none;
 }
 
+body {
+  font-family: sans-serif;
+}
+
+.wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+}
+
+.traffic-light-container {
+  background-color: #000;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  gap: 8px;
+}
+
+.traffic-light {
+  --size: 70px;
+  background-color: #555;
+  border-radius: var(--size);
+  height: var(--size);
+  width: var(--size);
+}
+
+.traffic-light-number {
+  font-weight: bold;
+  font-size: 60px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
