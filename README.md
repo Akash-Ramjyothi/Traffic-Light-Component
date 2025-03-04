@@ -14,6 +14,7 @@ https://akash-ramjyothi.github.io/Traffic-Light-Component/
 ## 📽 Sample Demo:
 https://github.com/user-attachments/assets/7c2d28fe-4f4a-40a7-9e56-033ed18d4d0b
 
-
+Logs:
+- Adding GitHub pages CI/CD.
 
 
