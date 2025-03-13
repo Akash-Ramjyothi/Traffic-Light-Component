@@ -23,3 +23,4 @@ Logs:
 - Initializing Jest.
 - Increasing code-coverage.
 - Validating output compiled.
+- Developing special flow.
