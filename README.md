@@ -24,3 +24,4 @@ Logs:
 - Increasing code-coverage.
 - Validating output compiled.
 - Developing special flow.
+- Initiated Jest unit-testing.
