@@ -26,3 +26,4 @@ Logs:
 - Developing special flow.
 - Initiated Jest unit-testing.
 - Developing special flow.
+- Removing inexecutable cases.
