@@ -27,3 +27,4 @@ Logs:
 - Initiated Jest unit-testing.
 - Developing special flow.
 - Removing inexecutable cases.
+- Increasing code-coverage.
