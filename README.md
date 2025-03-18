@@ -28,3 +28,4 @@ Logs:
 - Developing special flow.
 - Removing inexecutable cases.
 - Increasing code-coverage.
+- Removing unecessary explicit conditions.
